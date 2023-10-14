@@ -12,7 +12,7 @@ Store more recent pictures of all 17 asthaans across the world. Include short hi
 The app would serve as a central hub for all Nanaksar related social media accounts. All major accounts which host lives would be available to access from the app.
 
 ### Jeevani Hub
-Store Anand Chamatkar and Ishar Chamatkar in an easy-to-read format, a format which isn't like what is used across the board where only 6-7 lines are shown on each page and the user would need to turn pages. The idea would be to have a scrolling feature wihtout having to manually change pages.
+Store Anand Chamatkar and Ishar Chamatkar in an easy-to-read format, a format which isn't like what is used across the board where only 6-7 lines are shown on each page and the user would need to turn pages. The idea would be to have a scrolling feature without having to manually change pages.
 
 ### Gutka
 Store Nanaksar Maryada Sundar Gutka. Follow similar easy-to-read scrolling format used for the jeevanis. 
