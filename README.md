@@ -19,6 +19,3 @@ Store Nanaksar Maryada Sundar Gutka. Follow similar easy-to-read scrolling forma
 
 ### Calendar Feature
 Store dates for Pooranmashi, Sangrand, Gurpurabs and other events celebrated at Gurdwara Nanaksar. The dates would change automatically once the event day passes. User can opt for notifications as the event approaches.
-
-### Admin Feature
-An admin login where designated users can upload announcements. The announcements would then go out as notifications to all users using the app.
