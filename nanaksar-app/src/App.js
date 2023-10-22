@@ -4,6 +4,7 @@ import Home from './Components/Home';
 import Lives from './Components/Lives';
 import PDF from './Components/PDF';
 import Gurdwaras from './Components/Gurdwaras';
+import Kirtan from './Components/Kirtan';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
                 <Link to="/lives">Lives</Link>
                 <Link to="/pdf">PDFs</Link>
                 <Link to="/gurdwaras">Gurdwaras</Link>
+                <Link to="/kirtan">Kirtan</Link>
               </li>
             </ul>
           </nav>
@@ -26,6 +28,7 @@ function App() {
           <Route path="/lives" element={<Lives />}/>
           <Route path="/pdf" element={<PDF />}/>
           <Route path="/gurdwaras" element={<Gurdwaras />}/>
+          <Route path="/kirtan" element={<Kirtan />}/>
         </Routes>
         </div>
       </Router>
